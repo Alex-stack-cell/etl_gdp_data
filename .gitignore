@@ -76,6 +76,7 @@ Thumbs.db
 *.log
 *.db
 *.csv
+etl_project_log.txt
 
 # Jupyter Notebook
 .ipynb_checkpoints
